@@ -1,0 +1,1 @@
+{"gamesPlayed":1,"wins":0,"losses":1,"biggestHand":14,"biggestCrib":4,"biggestPlaying":10,"lifetimeHand":49,"lifetimeCrib":8,"lifetimePlaying":29,"lifetimePoints":86,"gameInProgress":1}

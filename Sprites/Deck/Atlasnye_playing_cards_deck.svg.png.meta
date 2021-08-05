@@ -1,0 +1,1379 @@
+fileFormatVersion: 2
+guid: d7f5cd826b967483a9bfc77628f99414
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Atlasnye_playing_cards_deck.svg_0
+  - first:
+      213: 21300002
+    second: Atlasnye_playing_cards_deck.svg_1
+  - first:
+      213: 21300004
+    second: Atlasnye_playing_cards_deck.svg_2
+  - first:
+      213: 21300006
+    second: Atlasnye_playing_cards_deck.svg_3
+  - first:
+      213: 21300008
+    second: Atlasnye_playing_cards_deck.svg_4
+  - first:
+      213: 21300010
+    second: Atlasnye_playing_cards_deck.svg_5
+  - first:
+      213: 21300012
+    second: Atlasnye_playing_cards_deck.svg_6
+  - first:
+      213: 21300014
+    second: Atlasnye_playing_cards_deck.svg_7
+  - first:
+      213: 21300016
+    second: Atlasnye_playing_cards_deck.svg_8
+  - first:
+      213: 21300018
+    second: Atlasnye_playing_cards_deck.svg_9
+  - first:
+      213: 21300020
+    second: Atlasnye_playing_cards_deck.svg_10
+  - first:
+      213: 21300022
+    second: Atlasnye_playing_cards_deck.svg_11
+  - first:
+      213: 21300024
+    second: Atlasnye_playing_cards_deck.svg_12
+  - first:
+      213: 21300026
+    second: Atlasnye_playing_cards_deck.svg_13
+  - first:
+      213: 21300028
+    second: Atlasnye_playing_cards_deck.svg_14
+  - first:
+      213: 21300030
+    second: Atlasnye_playing_cards_deck.svg_15
+  - first:
+      213: 21300032
+    second: Atlasnye_playing_cards_deck.svg_16
+  - first:
+      213: 21300034
+    second: Atlasnye_playing_cards_deck.svg_17
+  - first:
+      213: 21300036
+    second: Atlasnye_playing_cards_deck.svg_18
+  - first:
+      213: 21300038
+    second: Atlasnye_playing_cards_deck.svg_19
+  - first:
+      213: 21300040
+    second: Atlasnye_playing_cards_deck.svg_20
+  - first:
+      213: 21300042
+    second: Atlasnye_playing_cards_deck.svg_21
+  - first:
+      213: 21300044
+    second: Atlasnye_playing_cards_deck.svg_22
+  - first:
+      213: 21300046
+    second: Atlasnye_playing_cards_deck.svg_23
+  - first:
+      213: 21300048
+    second: Atlasnye_playing_cards_deck.svg_24
+  - first:
+      213: 21300050
+    second: Atlasnye_playing_cards_deck.svg_25
+  - first:
+      213: 21300052
+    second: Atlasnye_playing_cards_deck.svg_26
+  - first:
+      213: 21300054
+    second: Atlasnye_playing_cards_deck.svg_27
+  - first:
+      213: 21300056
+    second: Atlasnye_playing_cards_deck.svg_28
+  - first:
+      213: 21300058
+    second: Atlasnye_playing_cards_deck.svg_29
+  - first:
+      213: 21300060
+    second: Atlasnye_playing_cards_deck.svg_30
+  - first:
+      213: 21300062
+    second: Atlasnye_playing_cards_deck.svg_31
+  - first:
+      213: 21300064
+    second: Atlasnye_playing_cards_deck.svg_32
+  - first:
+      213: 21300066
+    second: Atlasnye_playing_cards_deck.svg_33
+  - first:
+      213: 21300068
+    second: Atlasnye_playing_cards_deck.svg_34
+  - first:
+      213: 21300070
+    second: Atlasnye_playing_cards_deck.svg_35
+  - first:
+      213: 21300072
+    second: Atlasnye_playing_cards_deck.svg_36
+  - first:
+      213: 21300074
+    second: Atlasnye_playing_cards_deck.svg_37
+  - first:
+      213: 21300076
+    second: Atlasnye_playing_cards_deck.svg_38
+  - first:
+      213: 21300078
+    second: Atlasnye_playing_cards_deck.svg_39
+  - first:
+      213: 21300080
+    second: Atlasnye_playing_cards_deck.svg_40
+  - first:
+      213: 21300082
+    second: Atlasnye_playing_cards_deck.svg_41
+  - first:
+      213: 21300084
+    second: Atlasnye_playing_cards_deck.svg_42
+  - first:
+      213: 21300086
+    second: Atlasnye_playing_cards_deck.svg_43
+  - first:
+      213: 21300088
+    second: Atlasnye_playing_cards_deck.svg_44
+  - first:
+      213: 21300090
+    second: Atlasnye_playing_cards_deck.svg_45
+  - first:
+      213: 21300092
+    second: Atlasnye_playing_cards_deck.svg_46
+  - first:
+      213: 21300094
+    second: Atlasnye_playing_cards_deck.svg_47
+  - first:
+      213: 21300096
+    second: Atlasnye_playing_cards_deck.svg_48
+  - first:
+      213: 21300098
+    second: Atlasnye_playing_cards_deck.svg_49
+  - first:
+      213: 21300100
+    second: Atlasnye_playing_cards_deck.svg_50
+  - first:
+      213: 21300102
+    second: Atlasnye_playing_cards_deck.svg_51
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1536
+        width: 325
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59f67b24abe842ada4996c895cad9e1
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1536
+        width: 324
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a718ca8ab8e8148d8a36e0df62f5bbe3
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_2
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1539
+        width: 326
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407395522ca5f469b9e9e78cb12882b4
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_3
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1536
+        width: 328
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a847426fa13499085b001cc96a3914
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_4
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1539
+        width: 329
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91c551d29703435a959581f576a6f62
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_5
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1535
+        width: 326
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e532e70b6a3b94c868cd439b8615e52a
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_6
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 1539
+        width: 324
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40cfcec21ff34cdea62615069debad4
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_7
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 1535
+        width: 330
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c70afdadea5447e8258c2919589d20
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_8
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 1539
+        width: 329
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14de3d38a25ea4646a74f6284afe1277
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_9
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 1536
+        width: 327
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cf523b2e2de42c0a4691e52a63a4cd
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_10
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 1539
+        width: 326
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a336018fa4d2149afb81fa90270fb8a8
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_11
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 1536
+        width: 324
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b6a860ebde54b69a7fb8d714a746fa
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_12
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 1536
+        width: 325
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fc2a34197e8492db7f5e5206c3191c
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1034
+        width: 325
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9fb068993f54df8b3eaab0dc649128
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1032
+        width: 328
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d74bfd0fe3d84f0da800e6812bb96e5
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_15
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1034
+        width: 328
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1f2bbf58e6e48be91d342e7a6e6958
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_16
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1032
+        width: 328
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9bb75d16c7f4ed8beb3cb9eb4f6f1c
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_17
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1034
+        width: 324
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693dbcc4e24ac47f08e2238c3f7f49df
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_18
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1034
+        width: 326
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25c7154f0b624d568aff592b88afb28
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_19
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 1033
+        width: 324
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3493b48d764e498ab50b6f0bf395b67
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_20
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 1034
+        width: 326
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d3f176a7128438f89e87dcaf5ed5bd
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_21
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 1034
+        width: 324
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e446a3acd5a664e9cbc4bd241b24e5d2
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_22
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 1032
+        width: 328
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4bf470820e34c82a51aa5b845ac3b5
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_23
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 1034
+        width: 328
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cccfb00ef0e43a1a223fae524c9d12
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_24
+      rect:
+        serializedVersion: 2
+        x: 3824
+        y: 1032
+        width: 328
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c909724b0a1ff419185c3e21876aefda
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_25
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 1034
+        width: 325
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6d1a24ade0e4454bf59ff3e6978774
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_26
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 529
+        width: 325
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49696e739a8a44c48b7b1cb81f3fa092
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_27
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 529
+        width: 328
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f6006fa4a09432f816c0f1cbcc9d83
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_28
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 529
+        width: 328
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db69aa1e01f74ee595b20ac086e6f44
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_29
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 529
+        width: 328
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8da4953052b40c5b0935e56f961bea
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_30
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 529
+        width: 324
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50445c0f1d3cf4c82aa0224191b284a1
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_31
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 529
+        width: 326
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d7731cc5145446caa1d64a479acfd4
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_32
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 529
+        width: 324
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a0d82afc2814714a49996e042ccd92
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_33
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 529
+        width: 326
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de6fedc0962942b0935547f2e467515
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_34
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 529
+        width: 324
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36eb50d62d0646e2a87213f17018b0b
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_35
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 529
+        width: 328
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf751df5c2f0244b7aa3f3895dba6407
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_36
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 529
+        width: 328
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1254d6a031784547a37b56b645bea4e
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_37
+      rect:
+        serializedVersion: 2
+        x: 3824
+        y: 529
+        width: 328
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360c4b89173464a6caf960635c1e6075
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_38
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 529
+        width: 325
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adebaea2cdb74695955c58328904322
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_39
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 325
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fd688fc3cc745f2966c6c5e0f3c6ca
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_40
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 23
+        width: 324
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe3190f6712749b1b9e35f8437264ff
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_41
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 23
+        width: 326
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f232ffd49a84c46b6a1dcef8d3c89a4d
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_42
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 23
+        width: 327
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587379737246f4f9e8eb1df7ffa8d872
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_43
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 23
+        width: 329
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2c6cf5a4b774cf288f559f6b020508
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_44
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 23
+        width: 330
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1228ec378db48698e47eb8bd7a9064
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_45
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 23
+        width: 324
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a70fc485a6ee4e99bf1a3b71dcfac85
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_46
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 23
+        width: 330
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78199964c8fee490fbe08acdfd442d8c
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_47
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 23
+        width: 329
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab4874d1df844b5a8166117a5bb08ec
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_48
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 23
+        width: 328
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c86efa009f34f6f8497c3c39ec5d3c
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_49
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 23
+        width: 326
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584a2c66f8d89477989c44fa1db4cfb1
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_50
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 23
+        width: 324
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a092f56d7394b089ec68613006eb1c
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_playing_cards_deck.svg_51
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 23
+        width: 325
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1777d02afc2f44aba8a2b44d56b44f86
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 09ef4e9b3c05a48708d997ed91746e4a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

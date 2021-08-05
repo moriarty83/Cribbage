@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: 87186eecce4a148259a7ca780d131400
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ScoreFont_0
+  - first:
+      213: 21300002
+    second: ScoreFont_1
+  - first:
+      213: 21300004
+    second: ScoreFont_2
+  - first:
+      213: 21300006
+    second: ScoreFont_3
+  - first:
+      213: 21300008
+    second: ScoreFont_4
+  - first:
+      213: 21300010
+    second: ScoreFont_5
+  - first:
+      213: 21300012
+    second: ScoreFont_6
+  - first:
+      213: 21300014
+    second: ScoreFont_7
+  - first:
+      213: 21300016
+    second: ScoreFont_8
+  - first:
+      213: 21300018
+    second: ScoreFont_9
+  - first:
+      213: 21300020
+    second: ScoreFont_10
+  - first:
+      213: 21300022
+    second: ScoreFont_11
+  - first:
+      213: 21300024
+    second: ScoreFont_12
+  - first:
+      213: 21300026
+    second: ScoreFont_13
+  - first:
+      213: 21300028
+    second: ScoreFont_14
+  - first:
+      213: 21300030
+    second: ScoreFont_15
+  - first:
+      213: 21300032
+    second: ScoreFont_16
+  - first:
+      213: 21300034
+    second: ScoreFont_17
+  - first:
+      213: 21300036
+    second: ScoreFont_18
+  - first:
+      213: 21300038
+    second: ScoreFont_19
+  - first:
+      213: 21300040
+    second: ScoreFont_20
+  - first:
+      213: 21300042
+    second: ScoreFont_21
+  - first:
+      213: 21300044
+    second: ScoreFont_22
+  - first:
+      213: 21300046
+    second: ScoreFont_23
+  - first:
+      213: 21300048
+    second: ScoreFont_24
+  - first:
+      213: 21300050
+    second: ScoreFont_25
+  - first:
+      213: 21300052
+    second: ScoreFont_26
+  - first:
+      213: 21300054
+    second: ScoreFont_27
+  - first:
+      213: 21300056
+    second: ScoreFont_28
+  - first:
+      213: 21300058
+    second: ScoreFont_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ScoreFont_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7506
+        width: 300
+        height: 259
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e900a7e70e2394975b5b7bec9d51430f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7248.1665
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b9a9af072a847a4a473acb2ddfeb68
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6990.1665
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7463b1c6f74449909fe25835dbe1f2f
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6732.1665
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cf952a7682e413e9da619353fae4bd
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6474.1665
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bd9458889b1432f921d8a78c592f4b
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6216.1665
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb2a4ea9ed344dad9f9d3bbf5803afe
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5958.1665
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142f857358ffe4a449bf69f49f31b947
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5700.1665
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33df7c20c0504d3db9a044be46d9e7b
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5442.1665
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12be91852da3c41e79a4379a71f3c14e
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5184.1665
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad54003e7f3724f329f6f4d5116662ee
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4926.1665
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33f79fb256c244d081a10828074c34a
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4668.1665
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a546adb918c554f8da1bfd10ffeca84c
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4410.1665
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2030e48397f4b8da71743ad34c1b13
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4152.1665
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95857fae680a34d7690a7e3537b83930
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3894.1667
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705f8b493d44849408cbbee8abdf07ef
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3636.1667
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d942d280ea03489087145f48bbe378a
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3378.1667
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9728dfbe8bec744288fa9b1c54600b7c
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3120.1667
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f33ab9216b784be88bc68973ca3ef07
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2862.1667
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828efb6b4c9a24052875c057495053d1
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2604.1667
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea11470ee296f4032842020c9ef8b2d4
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2346.1667
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9667ec96d94e0496d8cc3b644aeb1b58
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2088.1667
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e9666d70c8b494086dd5b463f88753
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1830.1666
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493ee608e16144a3d87198acb3475397
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1572.1666
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f669b306c5934c1392769b8d22cda60
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1314.1666
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c523d88ea994a42e3971082cd41b4779
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056.1666
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceecc9d264e394427a89919842e780ae
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798.1666
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8487290adb7492b9f09b479b11cbff
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540.1666
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47d571c149834df595b419673182b8c
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282.16666
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb779a67460194486aba70ffaa112ea4
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreFont_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24.166656
+        width: 300
+        height: 258.83334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d804c3c9895584efb838f1a5108b2172
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 022f2b076dd6d4e97b7dc6e28cab4cc3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
